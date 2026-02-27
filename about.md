@@ -1,13 +1,12 @@
 ---
 layout: page
-title: About
+title: About Me
 sidebar_link: true
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it
-  for your own use upon downloading. Carry on!
+  My name is CHANG Shunzhi(常舜志),bron in Conton, China, right now living in Chiba, Japan.
 </p>
 
-To make pages show up in the sidebar, add `sidebar_link: true` to the front
-matter.
+<!-- To make pages show up in the sidebar, add `sidebar_link: true` to the front
+matter. -->
