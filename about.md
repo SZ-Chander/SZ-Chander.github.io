@@ -11,7 +11,7 @@ My name is CHANG shunzhi(常 舜志), born in Canton, China. Living in Chiba, Ja
 I hold a Master of Engineering degree. My academic background is as follows:
 
 ### 2024 – 2026  
-**Shibaura Institute of Technology**
+**Shibaura Institute of Technology**  
 **Master's Degree**  
 Major: Electrical Engineering and Computer Science  
 Research Keywords:  
@@ -23,7 +23,7 @@ Master’s Thesis:
 A System to Support Inbound Tourists in Using Japan’s Long-Distance Railway Tickets  
 ---
 
-### 2019 – 2025  
+### 2019 – 2023  
 **Guangdong Medical University**  
 **Bachelor’s Degree**
 Majior: xxx
@@ -32,5 +32,7 @@ Research Keywords:
 ・Backend Development  
 ・Computer Engineering  
 ・Medical Information Systems  
-Bachelor’s Thesis: Design and Implementation of a Web-Based Nursing Information System:  
- Backend Framework Construction and API Development  
+Bachelor’s Thesis:  
+Design and Implementation of a Web-Based Nursing Information System:Backend Framework Construction and API Development  
+---
+
