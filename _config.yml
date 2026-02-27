@@ -3,7 +3,7 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Mypage Page
+title:            Mypage
 tagline:          'A Jekyll theme'
 description:      'CHANG Shunzhi Personal Page'
 url:              https://sz-chander.github.io/
