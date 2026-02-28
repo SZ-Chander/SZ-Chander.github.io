@@ -1,10 +1,7 @@
 ---
 layout: post
-title: "Welcome"
-categories:
-  - home page
-tags:
-  - home page
+title: "Home"
+permalink: /home/
 last_modified_at: 2026-02-28T14:25:52+09:00
 ---
 

@@ -3,6 +3,26 @@ layout: default
 ---
 
 <div class="content">
+  {% assign home_post = site.posts | where: "url", "/home/" | first %}
+
+  {% if home_post %}
+    <article class="post-body">
+      <h1 class="post-title">
+        <a href="{{ home_post.url | relative_url }}">{{ home_post.title }}</a>
+      </h1>
+
+      {% include post-meta.html post=home_post %}
+
+      {{ home_post.content }}
+    </article>
+  {% else %}
+    <p>Home post not found. Check the permalink or filename.</p>
+  {% endif %}
+</div>
+
+
+
+<!-- <div class="content">
   {% include pagination-newer.html %}
 
   {{ content }}
@@ -39,4 +59,4 @@ layout: default
   {% endfor %}
 
   {% include pagination-older.html %}
-</div>
+</div> -->
