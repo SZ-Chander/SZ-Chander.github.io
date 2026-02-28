@@ -1,7 +1,6 @@
 ---
 layout: category
 title: Diary
-permalink: /diary/
 ---
 
 This section contains some of my daily reflections.  
