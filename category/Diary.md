@@ -17,7 +17,7 @@ Small moments from school or work, touching experiences in everyday life, and oc
   <li class="Diary-item">
     <a class="dDary-link" href="{{ post.url | relative_url }}">
       {{ post.title }}
-      <small>{{ post.date | date_to_string }}</small>
+      <small>{{ (post.date | date_to_string) }}</small>
     </a>
   </li>
 {% endfor %}
