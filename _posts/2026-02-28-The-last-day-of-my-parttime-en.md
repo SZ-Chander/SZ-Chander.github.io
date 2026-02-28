@@ -2,9 +2,9 @@
 layout: post
 title: "The Last Day of My Part-Time Job"
 categories:
-  - DailyNote
+  - Diary
 tags:
-  - DailyNote
+  - Diary
 last_modified_at: 2026-02-28T22:15:00+09:00
 ---
 
