@@ -1,9 +1,7 @@
 ---
 layout: category
-title: Daily Notes
+title: DailyNotes
 ---
-
-# Daily Notes
 
 This section contains some of my daily reflections.  
 Small moments from school or work, touching experiences in everyday life, and occasional travel stories and practical tips.  
@@ -14,3 +12,12 @@ Small moments from school or work, touching experiences in everyday life, and oc
 这里记录了我的一些日常。  
 包括一些学校或职场中遭遇的小事，或者一些日常的感动，抑或是一些旅游的经验分享。  
 ---
+<ul class="diary-list">
+{% for post in site.categories.diary %}
+  <li class="diary-item">
+    <a class="diary-link" href="{{ post.url | relative_url }}">
+      {{ post.title }}
+    </a>
+  </li>
+{% endfor %}
+</ul>

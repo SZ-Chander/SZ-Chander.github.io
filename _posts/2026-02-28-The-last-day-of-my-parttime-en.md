@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "My final part-time day"
+title: "The Last Day of My Part-Time Job"
 categories:
-  - Daily Note
+  - DailyNote
 tags:
-  - Daily
+  - DailyNote
 last_modified_at: 2026-02-28T22:15:00+09:00
 ---
 
