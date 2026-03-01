@@ -2,7 +2,7 @@
 layout: post
 title: "Diary by English"
 categories:
-  - Diary_navi
+  - DiaryNavi
 tags:
   - Diary
 last_modified_at: 2026-03-02T22:15:00+09:00

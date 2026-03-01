@@ -12,10 +12,10 @@ Small moments from school or work, touching experiences in everyday life, and oc
 这里记录了我的一些日常。  
 包括一些学校或职场中遭遇的小事，或者一些日常的感动，抑或是一些旅游的经验分享。  
 ---
-<ul class="Diary_navi-list">
+<ul class="DiaryNavi-list">
 {% for post in site.categories.Diary %}
-  <li class="Diary_navi-item">
-    <a class="Diary_navi-link" href="{{ post.url | relative_url }}">
+  <li class="DiaryNavi-item">
+    <a class="DiaryNavi-link" href="{{ post.url | relative_url }}">
       {{ post.title }}
       <small>({{ post.date | date_to_string }})</small>
     </a>
