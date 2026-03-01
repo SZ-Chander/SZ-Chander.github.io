@@ -13,7 +13,7 @@ Small moments from school or work, touching experiences in everyday life, and oc
 包括一些学校或职场中遭遇的小事，或者一些日常的感动，抑或是一些旅游的经验分享。  
 ---
 <ul class="DiaryNavi-list">
-{% for post in site.categories.Diary %}
+{% for post in site.categories.DiaryNavi %}
   <li class="DiaryNavi-item">
     <a class="DiaryNavi-link" href="{{ post.url | relative_url }}">
       {{ post.title }}
