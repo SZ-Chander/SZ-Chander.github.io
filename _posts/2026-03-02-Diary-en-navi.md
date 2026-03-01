@@ -3,10 +3,10 @@ layout: post
 title: "Diary by English"
 categories:
   - DiaryNavi
-tags:
-  - Diary
 last_modified_at: 2026-03-02T22:15:00+09:00
 ---
+
+This is all my diary wirte by English  
 
 <ul class="Diary_en-list">
 {% for post in site.categories.Diary %}
